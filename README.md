@@ -1,5 +1,7 @@
 # SLF4J issue
 
+note: this doesn't happen without using `buildSrc`
+
 ```
 ./gradlew :slf4j-repro:test
 ```
