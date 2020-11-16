@@ -8,4 +8,4 @@
  */
 
 rootProject.name = "logging-issues-repro"
-include("log4j-repro", "slf4j-repro")
+include("log4j-repro", "slf4j-repro", "missing-configuration-repro")
